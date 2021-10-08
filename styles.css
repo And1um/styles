@@ -1,0 +1,36 @@
+/* STYLES */
+
+body {
+    background: aquamarine;
+    color: black;
+    font-family: 'Nunito', sans-serif;;
+}
+
+h1 {
+    font-size: 48px ;
+    font-weight: 500 ;
+    /* font-style: italic; */
+    text-transform: uppercase;
+}
+
+p {
+    margin-bottom: 20px;
+
+}
+
+main {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50vh;
+    padding: 4px;
+    border-style: solid;
+    border-width: 1pc;
+    border-color: rgb(91, 73, 255);
+}
+
+img {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
